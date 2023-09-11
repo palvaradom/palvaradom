@@ -35,4 +35,4 @@ Front End Developer and Microsoft Learn Student Ambassador passionate about tech
     <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Let's keep in touch! palvarado299@outlook.com 😊
+Let's keep in touch! 
